@@ -1,0 +1,23 @@
+body {
+    background:#fdfdfd; 
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#202020
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+div {
+    font-size: 1.5em;
+}
+
+span {
+    font-weight: bold
+}
